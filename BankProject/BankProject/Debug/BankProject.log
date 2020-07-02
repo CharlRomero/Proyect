@@ -1,0 +1,8 @@
+﻿  BankProject.cpp
+C:\Users\Charlie\Downloads\BankProject-9084c7da9c99bb228224d2cddf3263d101d3989b\BankProject\Check.h(42,14): warning C4101: 'e': unreferenced local variable
+C:\Users\Charlie\Downloads\BankProject-9084c7da9c99bb228224d2cddf3263d101d3989b\BankProject\Check.h(62,14): warning C4101: 'e': unreferenced local variable
+C:\Users\Charlie\Downloads\BankProject-9084c7da9c99bb228224d2cddf3263d101d3989b\BankProject\Check.h(78,14): warning C4101: 'e': unreferenced local variable
+C:\Users\Charlie\Downloads\BankProject-9084c7da9c99bb228224d2cddf3263d101d3989b\BankProject\Check.h(109,14): warning C4101: 'e': unreferenced local variable
+C:\Users\Charlie\Downloads\BankProject-9084c7da9c99bb228224d2cddf3263d101d3989b\BankProject\Check.h(124,14): warning C4101: 'e': unreferenced local variable
+C:\Users\Charlie\Downloads\BankProject-9084c7da9c99bb228224d2cddf3263d101d3989b\BankProject\Check.h(138,14): warning C4101: 'e': unreferenced local variable
+  BankProject.vcxproj -> C:\Users\Charlie\Downloads\BankProject-9084c7da9c99bb228224d2cddf3263d101d3989b\Debug\BankProject.exe
